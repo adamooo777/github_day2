@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  margin: auto;
+}
+
+.logo {
+  width: 100px;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-bottom: 10px;
+}
+
+.navbar {
+  color: white;
+  float: right;
+  list-style: none;
+}
+
+ul {
+  padding-right: 100px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+  font-size: 50px;
+  font-family: arial;
+}
+
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-left {
+  position: absolute;
+  top: 138px;
+  left: 38px;
+  font-size: 80px;
+}
+
+.top-center {
+  position: absolute;
+  top: 248px;
+  left: 38px;
+  font-size: 22px;
+  width: 50%;
+}
